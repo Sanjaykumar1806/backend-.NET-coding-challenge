@@ -12,3 +12,6 @@ bld/
 
 # JetBrains Rider
 .idea/
+/.vs/PAV-BE challenge/v16/TestStore/0/testlog.manifest
+/.vs/PAV-BE challenge/v16/TestStore/0/000.testlog
+/.vs/PAV-BE challenge/v16/.suo

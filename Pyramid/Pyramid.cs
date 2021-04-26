@@ -14,7 +14,7 @@ Write a script to output this pyramid on console (with leading spaces)
 */
 namespace Pyramid
 {
-    public class Program
+    public static class Program
     {
         private static void Pyramid(int height)
         {

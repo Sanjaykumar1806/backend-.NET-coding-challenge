@@ -18,6 +18,6 @@ namespace FizzBuzz.Engines
 {
     public interface IFizzBuzzEngine
     {
-        void Run(int limit);
+        void Run(int limit = 100);
     }
 }

@@ -1,4 +1,4 @@
-﻿using System;
+﻿
 namespace FizzBuzz.Output
 {
     public interface IOutput
